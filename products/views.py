@@ -88,4 +88,8 @@ def add_product(request):
         'form': form,
     }
 
+<<<<<<< HEAD
     return render(request, template, context)
+=======
+    return render(request, template, context)
+>>>>>>> 2f161ef6e1eed2e1b8ae8e4f6d00f25127f01cf1
